@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Subodh
-  I'm a passionate Full Stack Developer with a love for programming and problem-solving. I excel in building dynamic, robust web 
-  applications and tackling challenging problems with creative solutions.
+  I excel in building dynamic, robust web applications and tackling challenging problems with creative solutions.
   
 - 🔧 Tech Stack: MERN Stack
 
-- 👀 I’m interested in continuously learning and applying new technologies.
+- 👀 I’m interested in making products that matters.
   
 - 💞️ I enjoy collaborating with other developers and contributing to open-source projects.
   
