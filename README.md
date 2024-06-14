@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Subodh
+- 👋 Hi, I’m Subodh.
   I excel in building dynamic, robust web applications and tackling challenging problems with creative solutions.
   
 - 🔧 Tech Stack: MERN Stack
 
-- 👀 I’m interested in making products that matters.
+- 👀 I’m interested in developing software products that make a difference and solve real-world problems.
   
 - 💞️ I enjoy collaborating with other developers and contributing to open-source projects.
   
