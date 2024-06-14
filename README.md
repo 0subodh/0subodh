@@ -9,8 +9,7 @@
 - 💞️ I enjoy collaborating with other developers and contributing to open-source projects.
   
 - 📫 How to reach me:
-  - email: subodh1adhikari@gmail.com
-  - cell: +977 9843202926
+  - email:subodh1adhikari@gmail.com
 
 <!---
 0subodh/0subodh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
